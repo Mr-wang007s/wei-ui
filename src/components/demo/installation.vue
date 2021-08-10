@@ -1,6 +1,6 @@
 <template>
     <div>
-        hello world2
+       install   
     </div>
 </template>
 <script lang="ts">

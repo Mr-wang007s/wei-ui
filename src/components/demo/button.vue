@@ -1,6 +1,6 @@
 <template>
     <div>
-        hello Frank2
+       <w-button></w-button>   
     </div>
 </template>
 <script lang="ts">
